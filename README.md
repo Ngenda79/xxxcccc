@@ -1,2 +1,2 @@
 # Gold-Trade-Manager-
-For planning my trades
+For planning my trades 
